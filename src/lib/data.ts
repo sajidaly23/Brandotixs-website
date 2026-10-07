@@ -97,7 +97,7 @@ export const workItems = [
     name: "Aura Skincare",
     category: "Brand Identity",
     year: "2025",
-    image: "https://images.unsplash.com/photo-1615397323145-09c3132e18eb?auto=format&fit=crop&q=80&w=1200",
+    image: "/aura_skincare.jpg",
   },
   {
     name: "Lumina Tech",

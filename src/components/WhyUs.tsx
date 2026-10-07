@@ -15,7 +15,7 @@ export function WhyUs() {
             transition={{ duration: 0.6 }}
           >
             <img 
-              src="https://images.unsplash.com/photo-1542744094-24638ea0b3b5?auto=format&fit=crop&q=80&w=1200" 
+              src="/strategy_planning.jpg" 
               alt="Strategy and Planning" 
               className="rounded-3xl shadow-xl w-full h-auto"
             />
