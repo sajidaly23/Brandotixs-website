@@ -109,7 +109,7 @@ export const workItems = [
     name: "Oak & Iron",
     category: "Packaging Design",
     year: "2024",
-    image: "https://images.unsplash.com/photo-1595991209266-928d328328dc?auto=format&fit=crop&q=80&w=1200",
+    image: "/oak_and_iron.jpg",
   },
   {
     name: "Vanguard Studio",
