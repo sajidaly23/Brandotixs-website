@@ -15,7 +15,7 @@ export function FounderSection() {
              className="relative aspect-[3/4] md:aspect-auto md:h-[600px] rounded-3xl overflow-hidden"
           >
             <img 
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800" 
+              src="/image.png" 
               alt="Muhammad Adil - Founder" 
               className="w-full h-full object-cover grayscale contrast-125"
             />
